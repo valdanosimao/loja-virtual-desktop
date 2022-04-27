@@ -1,7 +1,6 @@
 package com.alura.model;
 
 public class Produto {
-	
 
 	private Integer id;
 	private String nome;
@@ -19,7 +18,7 @@ public class Produto {
 		this.nome = nome;
 		this.descricao = descricao;
 	}
-	
+
 	public Integer getId() {
 		return id;
 	}
@@ -48,6 +47,5 @@ public class Produto {
 	public String toString() {
 		return String.format("O produto é: %d, %s, %s", this.id, this.nome, this.descricao);
 	}
-	
 
 }

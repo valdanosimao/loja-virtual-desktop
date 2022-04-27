@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Categoria {
-	
+
 	private Integer id;
 	private String nome;
 	private List<Produto> produtos = new ArrayList<Produto>();
