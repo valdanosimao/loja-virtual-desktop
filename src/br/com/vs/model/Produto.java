@@ -1,4 +1,4 @@
-package com.alura.model;
+package br.com.vs.model;
 
 public class Produto {
 

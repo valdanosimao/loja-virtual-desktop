@@ -1,4 +1,4 @@
-package com.alura.model;
+package br.com.vs.model;
 
 import java.util.ArrayList;
 import java.util.List;

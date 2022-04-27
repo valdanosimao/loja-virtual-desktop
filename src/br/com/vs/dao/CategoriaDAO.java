@@ -1,4 +1,4 @@
-package com.alura.dao;
+package br.com.vs.dao;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
@@ -7,8 +7,8 @@ import java.sql.SQLException;
 import java.util.ArrayList;
 import java.util.List;
 
-import com.alura.model.Categoria;
-import com.alura.model.Produto;
+import br.com.vs.model.Categoria;
+import br.com.vs.model.Produto;
 
 public class CategoriaDAO {
 	
